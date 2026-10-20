@@ -32,31 +32,37 @@ A full-stack Bookstore Management Application built using the MERN stack (MongoD
 - CORS
 
 ## 📁 Project Structure
-
-```text
-BookStore/
+'''
+mern-bookstore/
 ├── backend/
 │   ├── models/
 │   │   └── bookModel.js
 │   ├── routes/
-│   │   └── booksRoute.js
 │   ├── config.js
 │   ├── index.js
-│   └── package.json
+│   ├── package.json
+│   └── package-lock.json
 ├── frontend/
 │   ├── public/
 │   ├── src/
 │   │   ├── assets/
 │   │   ├── components/
 │   │   ├── pages/
+│   │   ├── App.css
 │   │   ├── App.jsx
 │   │   ├── index.css
 │   │   └── main.jsx
-│   └── package.json
+│   ├── .gitignore
+│   ├── eslint.config.js
+│   ├── index.html
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── postcss.config.js
+│   ├── tailwind.config.js
+│   └── vite.config.js
 ├── .gitignore
 └── README.md
-```
-
+'''
 ## ⚙️ Getting Started
 
 ### Prerequisites
