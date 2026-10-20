@@ -30,9 +30,9 @@ A full-stack Bookstore Management Application built using the MERN stack (MongoD
 - MongoDB Atlas
 - Mongoose
 - CORS
-
 ## 📁 Project Structure
-'''
+
+```text
 mern-bookstore/
 ├── backend/
 │   ├── models/
@@ -62,7 +62,7 @@ mern-bookstore/
 │   └── vite.config.js
 ├── .gitignore
 └── README.md
-'''
+```
 ## ⚙️ Getting Started
 
 ### Prerequisites
